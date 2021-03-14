@@ -19,7 +19,7 @@ The environment that has been confirmed to work is as follows.
 
 - Gazebo 9.0.0 on Ubuntu 18.04
 - Simulink in MATLAB R2020a on Windows 10
-- CPU: CPU: Intel i7-9750H 2.60GHz
+- CPU: Intel i7-9750H 2.60GHz
 - GPU: NVIDIA Quadro T2000
 - Memory: 32Gbyte
 
@@ -42,7 +42,7 @@ git clone https://github.com/shimotoriharuki/robotracer_simulation_with_gazebo
 ## Run
 
 1. As with the [tutorial](https://jp.mathworks.com/help/robotics/ug/perform-co-simulation-between-simulink-and-gazebo.html?lang=en), make sure you can communicate(If you cannot communicate even though the IP address is correct, try restarting the PC)
-1. Load the `change data_size.mat` contained in this repository into the MATLAB workspace
+1. Load the `change_data_size.mat` contained in this repository into the MATLAB workspace
 1. Execute the Simulink.
 1. The Robotracer in Gazebo start running.
 
