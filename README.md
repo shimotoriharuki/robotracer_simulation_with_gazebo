@@ -6,6 +6,11 @@ The simulator uses gazebo and the sdf model uses [this repository](https://githu
 [![Image from Gyazo](https://i.gyazo.com/7fd4fe6971cad07e5ec80cd1dea8a198.gif)](https://gyazo.com/7fd4fe6971cad07e5ec80cd1dea8a198)
 Note: The Gif is 47x faster. The simulation actually takes longer.
 
+# Document
+Detailed documentation written in Japanese can be found at the following link.
+
+https://underbirdworks.blogspot.com/2021/12/blog-post.html
+
 # Usage
 
 ## prerequisite
